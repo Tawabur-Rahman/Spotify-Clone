@@ -1,0 +1,1 @@
+<h2>The website is built using modern HTML and CSS techniques</h2>
